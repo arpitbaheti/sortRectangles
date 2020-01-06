@@ -1,4 +1,4 @@
-# sortRectangles
+# sort Rectangles
 Sorting the rectangles given on a plane
 
 
